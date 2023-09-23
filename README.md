@@ -3,3 +3,5 @@ Este proyecto utiliza Python con las bibliotecas Pandas y Matplotlib para analiz
 ## Ejecución del Proyecto
 
 Instala JupyterLab y las bibliotecas `pandas` y `matplotlib`. Abre `main.ipynb`, ejecuta las celdas para conseguir las graficas sobre los ciberataques de ransomware ocurridos en la primera mitad de 2023.
+
+![Ejemplo](https://raw.githubusercontent.com/M3str3/RansomwareInsights-2023S1/master/example.png)
